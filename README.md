@@ -1,1 +1,0 @@
-# mercari_assigment
